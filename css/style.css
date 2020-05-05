@@ -1,0 +1,86 @@
+body {
+    background-image: url('../img/sfondo.jpg');
+    background-size: cover;
+}
+
+.contenitore {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#logogmail {
+    width: 150px;
+    vertical-align: middle;
+}
+
+#testologo {
+    color: white;
+    display: inline-block;
+}
+
+#cerchio {
+    display: inline-block;
+    background-color: orange;
+    border-radius: 50%;
+    padding: 6px;
+}
+
+#form {
+    margin-top: 10px;
+}
+
+.messaggi-in-arrivo {
+    color: white;
+}
+
+.riga-oggettomail {
+    display: inline-block;
+    width: 30%;
+    font-weight: bold;
+}
+
+.riga-corpomail {
+    display: inline-block;
+    width: 68%;
+}
+
+.oggettodellamail {
+    color: black;
+}
+
+.corpodellamail {
+    color: grey;
+}
+
+.righe {
+    color: black;
+    border: 1px solid gray;
+}
+
+.lette {
+    background-color: white;
+}
+
+.non-lette {
+    background-color: lightgrey;
+}
+
+.stella {
+    color: orange;
+}
+
+.aperta {
+    color: gray;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+#credit {
+
+    font-size: 14px;
+    font-style: oblique;
+}
